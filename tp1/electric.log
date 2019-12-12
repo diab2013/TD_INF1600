@@ -1,0 +1,916 @@
+Electric Version 8.05
+--------------- 0 --------------
+  Mon Feb 04 21:26:14 EST 2019
+ProcessKeyBinding 401 when=1549333574324 modifiers=80 code=11 char=ffff false false
+--------------- 1 --------------
+  Mon Feb 04 21:26:14 EST 2019
+ProcessKeyBinding 401 when=1549333574585 modifiers=80 code=4f char=f false false
+--------------- 2 --------------
+  Mon Feb 04 21:26:14 EST 2019
+Menu Activated: File | Open Library...
+--------------- 3 --------------
+  Mon Feb 04 21:26:14 EST 2019
+ProcessKeyBinding 400 when=1549333574585 modifiers=80 code=0 char=f false false
+--------------- 4 --------------
+  Mon Feb 04 21:26:20 EST 2019
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 5 --------------
+  Mon Feb 04 21:26:28 EST 2019
+ProcessKeyBinding 401 when=1549333588910 modifiers=80 code=11 char=ffff false false
+--------------- 6 --------------
+  Mon Feb 04 21:26:29 EST 2019
+ProcessKeyBinding 401 when=1549333589314 modifiers=80 code=36 char=36(6) false false
+--------------- 7 --------------
+  Mon Feb 04 21:26:29 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 8 --------------
+  Mon Feb 04 21:26:29 EST 2019
+ProcessKeyBinding 400 when=1549333589314 modifiers=80 code=0 char=36(6) false false
+--------------- 9 --------------
+  Mon Feb 04 21:26:29 EST 2019
+ProcessKeyBinding 402 when=1549333589405 modifiers=80 code=36 char=36(6) false false
+--------------- 10 --------------
+  Mon Feb 04 21:26:29 EST 2019
+ProcessKeyBinding 401 when=1549333589517 modifiers=80 code=36 char=36(6) false false
+--------------- 11 --------------
+  Mon Feb 04 21:26:29 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 12 --------------
+  Mon Feb 04 21:26:29 EST 2019
+ProcessKeyBinding 400 when=1549333589517 modifiers=80 code=0 char=36(6) false false
+--------------- 13 --------------
+  Mon Feb 04 21:26:29 EST 2019
+ProcessKeyBinding 402 when=1549333589612 modifiers=80 code=36 char=36(6) false false
+--------------- 14 --------------
+  Mon Feb 04 21:26:31 EST 2019
+ProcessKeyBinding 401 when=1549333591634 modifiers=80 code=34 char=34(4) false false
+--------------- 15 --------------
+  Mon Feb 04 21:26:31 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 16 --------------
+  Mon Feb 04 21:26:31 EST 2019
+ProcessKeyBinding 400 when=1549333591634 modifiers=80 code=0 char=34(4) false false
+--------------- 17 --------------
+  Mon Feb 04 21:26:31 EST 2019
+ProcessKeyBinding 402 when=1549333591708 modifiers=80 code=34 char=34(4) false false
+--------------- 18 --------------
+  Mon Feb 04 21:26:32 EST 2019
+ProcessKeyBinding 401 when=1549333592107 modifiers=80 code=34 char=34(4) false false
+--------------- 19 --------------
+  Mon Feb 04 21:26:32 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 20 --------------
+  Mon Feb 04 21:26:32 EST 2019
+ProcessKeyBinding 400 when=1549333592107 modifiers=80 code=0 char=34(4) false false
+--------------- 21 --------------
+  Mon Feb 04 21:26:32 EST 2019
+ProcessKeyBinding 402 when=1549333592197 modifiers=80 code=34 char=34(4) false false
+--------------- 22 --------------
+  Mon Feb 04 21:26:32 EST 2019
+ProcessKeyBinding 401 when=1549333592921 modifiers=80 code=34 char=34(4) false false
+--------------- 23 --------------
+  Mon Feb 04 21:26:32 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 24 --------------
+  Mon Feb 04 21:26:32 EST 2019
+ProcessKeyBinding 400 when=1549333592921 modifiers=80 code=0 char=34(4) false false
+--------------- 25 --------------
+  Mon Feb 04 21:26:32 EST 2019
+ProcessKeyBinding 402 when=1549333592990 modifiers=80 code=34 char=34(4) false false
+--------------- 26 --------------
+  Mon Feb 04 21:26:37 EST 2019
+ProcessKeyBinding 401 when=1549333597501 modifiers=80 code=36 char=36(6) false false
+--------------- 27 --------------
+  Mon Feb 04 21:26:37 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 28 --------------
+  Mon Feb 04 21:26:37 EST 2019
+ProcessKeyBinding 400 when=1549333597501 modifiers=80 code=0 char=36(6) false false
+--------------- 29 --------------
+  Mon Feb 04 21:26:37 EST 2019
+ProcessKeyBinding 402 when=1549333597606 modifiers=80 code=36 char=36(6) false false
+--------------- 30 --------------
+  Mon Feb 04 21:26:38 EST 2019
+ProcessKeyBinding 401 when=1549333598650 modifiers=80 code=34 char=34(4) false false
+--------------- 31 --------------
+  Mon Feb 04 21:26:38 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 32 --------------
+  Mon Feb 04 21:26:38 EST 2019
+ProcessKeyBinding 400 when=1549333598650 modifiers=80 code=0 char=34(4) false false
+--------------- 33 --------------
+  Mon Feb 04 21:26:38 EST 2019
+ProcessKeyBinding 402 when=1549333598761 modifiers=80 code=34 char=34(4) false false
+--------------- 34 --------------
+  Mon Feb 04 21:26:39 EST 2019
+ProcessKeyBinding 402 when=1549333599203 modifiers=0 code=11 char=ffff false false
+--------------- 35 --------------
+  Mon Feb 04 21:26:51 EST 2019
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 36 --------------
+  Mon Feb 04 21:27:05 EST 2019
+ProcessKeyBinding 401 when=1549333625267 modifiers=80 code=11 char=ffff false false
+--------------- 37 --------------
+  Mon Feb 04 21:27:07 EST 2019
+ProcessKeyBinding 401 when=1549333627767 modifiers=80 code=36 char=36(6) false false
+--------------- 38 --------------
+  Mon Feb 04 21:27:07 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 39 --------------
+  Mon Feb 04 21:27:07 EST 2019
+ProcessKeyBinding 400 when=1549333627767 modifiers=80 code=0 char=36(6) false false
+--------------- 40 --------------
+  Mon Feb 04 21:27:07 EST 2019
+ProcessKeyBinding 402 when=1549333627857 modifiers=80 code=36 char=36(6) false false
+--------------- 41 --------------
+  Mon Feb 04 21:27:08 EST 2019
+ProcessKeyBinding 401 when=1549333628208 modifiers=80 code=34 char=34(4) false false
+--------------- 42 --------------
+  Mon Feb 04 21:27:08 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 43 --------------
+  Mon Feb 04 21:27:08 EST 2019
+ProcessKeyBinding 400 when=1549333628208 modifiers=80 code=0 char=34(4) false false
+--------------- 44 --------------
+  Mon Feb 04 21:27:08 EST 2019
+ProcessKeyBinding 402 when=1549333628330 modifiers=80 code=34 char=34(4) false false
+--------------- 45 --------------
+  Mon Feb 04 21:27:09 EST 2019
+ProcessKeyBinding 401 when=1549333629618 modifiers=80 code=37 char=37(7) false false
+--------------- 46 --------------
+  Mon Feb 04 21:27:09 EST 2019
+Menu Activated: Window | Zoom In
+--------------- 47 --------------
+  Mon Feb 04 21:27:09 EST 2019
+ProcessKeyBinding 400 when=1549333629618 modifiers=80 code=0 char=37(7) false false
+--------------- 48 --------------
+  Mon Feb 04 21:27:09 EST 2019
+ProcessKeyBinding 402 when=1549333629703 modifiers=80 code=37 char=37(7) false false
+--------------- 49 --------------
+  Mon Feb 04 21:27:10 EST 2019
+ProcessKeyBinding 401 when=1549333630129 modifiers=80 code=37 char=37(7) false false
+--------------- 50 --------------
+  Mon Feb 04 21:27:10 EST 2019
+Menu Activated: Window | Zoom In
+--------------- 51 --------------
+  Mon Feb 04 21:27:10 EST 2019
+ProcessKeyBinding 400 when=1549333630129 modifiers=80 code=0 char=37(7) false false
+--------------- 52 --------------
+  Mon Feb 04 21:27:10 EST 2019
+ProcessKeyBinding 402 when=1549333630229 modifiers=80 code=37 char=37(7) false false
+--------------- 53 --------------
+  Mon Feb 04 21:27:11 EST 2019
+ProcessKeyBinding 401 when=1549333631122 modifiers=80 code=33 char=33(3) false false
+--------------- 54 --------------
+  Mon Feb 04 21:27:11 EST 2019
+ProcessKeyBinding 400 when=1549333631122 modifiers=80 code=0 char=33(3) false false
+--------------- 55 --------------
+  Mon Feb 04 21:27:11 EST 2019
+ProcessKeyBinding 402 when=1549333631223 modifiers=80 code=33 char=33(3) false false
+--------------- 56 --------------
+  Mon Feb 04 21:27:11 EST 2019
+ProcessKeyBinding 401 when=1549333631979 modifiers=80 code=32 char=32(2) false false
+--------------- 57 --------------
+  Mon Feb 04 21:27:11 EST 2019
+Menu Activated: Window | Pan Down
+--------------- 58 --------------
+  Mon Feb 04 21:27:11 EST 2019
+ProcessKeyBinding 400 when=1549333631979 modifiers=80 code=0 char=32(2) false false
+--------------- 59 --------------
+  Mon Feb 04 21:27:12 EST 2019
+ProcessKeyBinding 402 when=1549333632075 modifiers=80 code=32 char=32(2) false false
+--------------- 60 --------------
+  Mon Feb 04 21:27:12 EST 2019
+ProcessKeyBinding 401 when=1549333632852 modifiers=80 code=34 char=34(4) false false
+--------------- 61 --------------
+  Mon Feb 04 21:27:12 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 62 --------------
+  Mon Feb 04 21:27:12 EST 2019
+ProcessKeyBinding 400 when=1549333632852 modifiers=80 code=0 char=34(4) false false
+--------------- 63 --------------
+  Mon Feb 04 21:27:12 EST 2019
+ProcessKeyBinding 402 when=1549333632931 modifiers=80 code=34 char=34(4) false false
+--------------- 64 --------------
+  Mon Feb 04 21:27:22 EST 2019
+ProcessKeyBinding 401 when=1549333642948 modifiers=80 code=34 char=34(4) false false
+--------------- 65 --------------
+  Mon Feb 04 21:27:22 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 66 --------------
+  Mon Feb 04 21:27:22 EST 2019
+ProcessKeyBinding 400 when=1549333642948 modifiers=80 code=0 char=34(4) false false
+--------------- 67 --------------
+  Mon Feb 04 21:27:23 EST 2019
+ProcessKeyBinding 402 when=1549333643023 modifiers=80 code=34 char=34(4) false false
+--------------- 68 --------------
+  Mon Feb 04 21:27:30 EST 2019
+ProcessKeyBinding 402 when=1549333650087 modifiers=0 code=11 char=ffff false false
+--------------- 69 --------------
+  Mon Feb 04 21:27:43 EST 2019
+ProcessKeyBinding 401 when=1549333663458 modifiers=80 code=11 char=ffff false false
+--------------- 70 --------------
+  Mon Feb 04 21:27:43 EST 2019
+ProcessKeyBinding 401 when=1549333663777 modifiers=80 code=36 char=36(6) false false
+--------------- 71 --------------
+  Mon Feb 04 21:27:43 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 72 --------------
+  Mon Feb 04 21:27:43 EST 2019
+ProcessKeyBinding 400 when=1549333663777 modifiers=80 code=0 char=36(6) false false
+--------------- 73 --------------
+  Mon Feb 04 21:27:43 EST 2019
+ProcessKeyBinding 402 when=1549333663862 modifiers=80 code=36 char=36(6) false false
+--------------- 74 --------------
+  Mon Feb 04 21:27:48 EST 2019
+ProcessKeyBinding 402 when=1549333668161 modifiers=0 code=11 char=ffff false false
+--------------- 75 --------------
+  Mon Feb 04 21:30:18 EST 2019
+ProcessKeyBinding 401 when=1549333818049 modifiers=80 code=11 char=ffff false false
+--------------- 76 --------------
+  Mon Feb 04 21:30:18 EST 2019
+ProcessKeyBinding 401 when=1549333818417 modifiers=80 code=37 char=37(7) false false
+--------------- 77 --------------
+  Mon Feb 04 21:30:18 EST 2019
+Menu Activated: Window | Zoom In
+--------------- 78 --------------
+  Mon Feb 04 21:30:18 EST 2019
+ProcessKeyBinding 400 when=1549333818417 modifiers=80 code=0 char=37(7) false false
+--------------- 79 --------------
+  Mon Feb 04 21:30:18 EST 2019
+ProcessKeyBinding 402 when=1549333818518 modifiers=80 code=37 char=37(7) false false
+--------------- 80 --------------
+  Mon Feb 04 21:30:18 EST 2019
+ProcessKeyBinding 402 when=1549333818864 modifiers=0 code=11 char=ffff false false
+--------------- 81 --------------
+  Mon Feb 04 21:30:20 EST 2019
+ProcessKeyBinding 401 when=1549333820384 modifiers=80 code=11 char=ffff false false
+--------------- 82 --------------
+  Mon Feb 04 21:30:20 EST 2019
+ProcessKeyBinding 401 when=1549333820852 modifiers=80 code=34 char=34(4) false false
+--------------- 83 --------------
+  Mon Feb 04 21:30:20 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 84 --------------
+  Mon Feb 04 21:30:20 EST 2019
+ProcessKeyBinding 400 when=1549333820852 modifiers=80 code=0 char=34(4) false false
+--------------- 85 --------------
+  Mon Feb 04 21:30:20 EST 2019
+ProcessKeyBinding 402 when=1549333820947 modifiers=80 code=34 char=34(4) false false
+--------------- 86 --------------
+  Mon Feb 04 21:30:21 EST 2019
+ProcessKeyBinding 401 when=1549333821054 modifiers=80 code=34 char=34(4) false false
+--------------- 87 --------------
+  Mon Feb 04 21:30:21 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 88 --------------
+  Mon Feb 04 21:30:21 EST 2019
+ProcessKeyBinding 400 when=1549333821054 modifiers=80 code=0 char=34(4) false false
+--------------- 89 --------------
+  Mon Feb 04 21:30:21 EST 2019
+ProcessKeyBinding 402 when=1549333821144 modifiers=80 code=34 char=34(4) false false
+--------------- 90 --------------
+  Mon Feb 04 21:30:21 EST 2019
+ProcessKeyBinding 401 when=1549333821384 modifiers=80 code=34 char=34(4) false false
+--------------- 91 --------------
+  Mon Feb 04 21:30:21 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 92 --------------
+  Mon Feb 04 21:30:21 EST 2019
+ProcessKeyBinding 400 when=1549333821384 modifiers=80 code=0 char=34(4) false false
+--------------- 93 --------------
+  Mon Feb 04 21:30:21 EST 2019
+ProcessKeyBinding 402 when=1549333821463 modifiers=80 code=34 char=34(4) false false
+--------------- 94 --------------
+  Mon Feb 04 21:30:21 EST 2019
+ProcessKeyBinding 401 when=1549333821575 modifiers=80 code=34 char=34(4) false false
+--------------- 95 --------------
+  Mon Feb 04 21:30:21 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 96 --------------
+  Mon Feb 04 21:30:21 EST 2019
+ProcessKeyBinding 400 when=1549333821575 modifiers=80 code=0 char=34(4) false false
+--------------- 97 --------------
+  Mon Feb 04 21:30:21 EST 2019
+ProcessKeyBinding 402 when=1549333821666 modifiers=80 code=34 char=34(4) false false
+--------------- 98 --------------
+  Mon Feb 04 21:30:22 EST 2019
+ProcessKeyBinding 401 when=1549333822926 modifiers=80 code=36 char=36(6) false false
+--------------- 99 --------------
+  Mon Feb 04 21:30:22 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 100 --------------
+  Mon Feb 04 21:30:22 EST 2019
+ProcessKeyBinding 400 when=1549333822926 modifiers=80 code=0 char=36(6) false false
+--------------- 101 --------------
+  Mon Feb 04 21:30:23 EST 2019
+ProcessKeyBinding 402 when=1549333823022 modifiers=80 code=36 char=36(6) false false
+--------------- 102 --------------
+  Mon Feb 04 21:30:24 EST 2019
+ProcessKeyBinding 401 when=1549333824006 modifiers=80 code=37 char=37(7) false false
+--------------- 103 --------------
+  Mon Feb 04 21:30:24 EST 2019
+Menu Activated: Window | Zoom In
+--------------- 104 --------------
+  Mon Feb 04 21:30:24 EST 2019
+ProcessKeyBinding 400 when=1549333824006 modifiers=80 code=0 char=37(7) false false
+--------------- 105 --------------
+  Mon Feb 04 21:30:24 EST 2019
+ProcessKeyBinding 402 when=1549333824112 modifiers=80 code=37 char=37(7) false false
+--------------- 106 --------------
+  Mon Feb 04 21:30:24 EST 2019
+ProcessKeyBinding 402 when=1549333824852 modifiers=0 code=11 char=ffff false false
+--------------- 107 --------------
+  Mon Feb 04 21:30:25 EST 2019
+ProcessKeyBinding 401 when=1549333825642 modifiers=80 code=11 char=ffff false false
+--------------- 108 --------------
+  Mon Feb 04 21:30:26 EST 2019
+ProcessKeyBinding 401 when=1549333826009 modifiers=80 code=37 char=37(7) false false
+--------------- 109 --------------
+  Mon Feb 04 21:30:26 EST 2019
+Menu Activated: Window | Zoom In
+--------------- 110 --------------
+  Mon Feb 04 21:30:26 EST 2019
+ProcessKeyBinding 400 when=1549333826009 modifiers=80 code=0 char=37(7) false false
+--------------- 111 --------------
+  Mon Feb 04 21:30:26 EST 2019
+ProcessKeyBinding 402 when=1549333826105 modifiers=80 code=37 char=37(7) false false
+--------------- 112 --------------
+  Mon Feb 04 21:30:26 EST 2019
+ProcessKeyBinding 401 when=1549333826552 modifiers=80 code=37 char=37(7) false false
+--------------- 113 --------------
+  Mon Feb 04 21:30:26 EST 2019
+Menu Activated: Window | Zoom In
+--------------- 114 --------------
+  Mon Feb 04 21:30:26 EST 2019
+ProcessKeyBinding 400 when=1549333826552 modifiers=80 code=0 char=37(7) false false
+--------------- 115 --------------
+  Mon Feb 04 21:30:26 EST 2019
+ProcessKeyBinding 402 when=1549333826653 modifiers=80 code=37 char=37(7) false false
+--------------- 116 --------------
+  Mon Feb 04 21:30:27 EST 2019
+ProcessKeyBinding 401 when=1549333827764 modifiers=80 code=34 char=34(4) false false
+--------------- 117 --------------
+  Mon Feb 04 21:30:27 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 118 --------------
+  Mon Feb 04 21:30:27 EST 2019
+ProcessKeyBinding 400 when=1549333827764 modifiers=80 code=0 char=34(4) false false
+--------------- 119 --------------
+  Mon Feb 04 21:30:27 EST 2019
+ProcessKeyBinding 402 when=1549333827850 modifiers=80 code=34 char=34(4) false false
+--------------- 120 --------------
+  Mon Feb 04 21:30:27 EST 2019
+ProcessKeyBinding 401 when=1549333827940 modifiers=80 code=34 char=34(4) false false
+--------------- 121 --------------
+  Mon Feb 04 21:30:27 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 122 --------------
+  Mon Feb 04 21:30:27 EST 2019
+ProcessKeyBinding 400 when=1549333827940 modifiers=80 code=0 char=34(4) false false
+--------------- 123 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 402 when=1549333828030 modifiers=80 code=34 char=34(4) false false
+--------------- 124 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 401 when=1549333828110 modifiers=80 code=34 char=34(4) false false
+--------------- 125 --------------
+  Mon Feb 04 21:30:28 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 126 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 400 when=1549333828110 modifiers=80 code=0 char=34(4) false false
+--------------- 127 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 402 when=1549333828200 modifiers=80 code=34 char=34(4) false false
+--------------- 128 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 401 when=1549333828296 modifiers=80 code=34 char=34(4) false false
+--------------- 129 --------------
+  Mon Feb 04 21:30:28 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 130 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 400 when=1549333828296 modifiers=80 code=0 char=34(4) false false
+--------------- 131 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 402 when=1549333828382 modifiers=80 code=34 char=34(4) false false
+--------------- 132 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 401 when=1549333828541 modifiers=80 code=34 char=34(4) false false
+--------------- 133 --------------
+  Mon Feb 04 21:30:28 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 134 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 400 when=1549333828541 modifiers=80 code=0 char=34(4) false false
+--------------- 135 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 402 when=1549333828642 modifiers=80 code=34 char=34(4) false false
+--------------- 136 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 401 when=1549333828775 modifiers=80 code=34 char=34(4) false false
+--------------- 137 --------------
+  Mon Feb 04 21:30:28 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 138 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 400 when=1549333828775 modifiers=80 code=0 char=34(4) false false
+--------------- 139 --------------
+  Mon Feb 04 21:30:28 EST 2019
+ProcessKeyBinding 402 when=1549333828876 modifiers=80 code=34 char=34(4) false false
+--------------- 140 --------------
+  Mon Feb 04 21:30:29 EST 2019
+ProcessKeyBinding 401 when=1549333829020 modifiers=80 code=34 char=34(4) false false
+--------------- 141 --------------
+  Mon Feb 04 21:30:29 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 142 --------------
+  Mon Feb 04 21:30:29 EST 2019
+ProcessKeyBinding 400 when=1549333829020 modifiers=80 code=0 char=34(4) false false
+--------------- 143 --------------
+  Mon Feb 04 21:30:29 EST 2019
+ProcessKeyBinding 402 when=1549333829142 modifiers=80 code=34 char=34(4) false false
+--------------- 144 --------------
+  Mon Feb 04 21:30:29 EST 2019
+ProcessKeyBinding 401 when=1549333829307 modifiers=80 code=34 char=34(4) false false
+--------------- 145 --------------
+  Mon Feb 04 21:30:29 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 146 --------------
+  Mon Feb 04 21:30:29 EST 2019
+ProcessKeyBinding 400 when=1549333829307 modifiers=80 code=0 char=34(4) false false
+--------------- 147 --------------
+  Mon Feb 04 21:30:29 EST 2019
+ProcessKeyBinding 402 when=1549333829398 modifiers=80 code=34 char=34(4) false false
+--------------- 148 --------------
+  Mon Feb 04 21:30:29 EST 2019
+ProcessKeyBinding 401 when=1549333829839 modifiers=80 code=34 char=34(4) false false
+--------------- 149 --------------
+  Mon Feb 04 21:30:29 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 150 --------------
+  Mon Feb 04 21:30:29 EST 2019
+ProcessKeyBinding 400 when=1549333829839 modifiers=80 code=0 char=34(4) false false
+--------------- 151 --------------
+  Mon Feb 04 21:30:29 EST 2019
+ProcessKeyBinding 402 when=1549333829945 modifiers=80 code=34 char=34(4) false false
+--------------- 152 --------------
+  Mon Feb 04 21:30:30 EST 2019
+ProcessKeyBinding 401 when=1549333830674 modifiers=80 code=34 char=34(4) false false
+--------------- 153 --------------
+  Mon Feb 04 21:30:30 EST 2019
+Menu Activated: Window | Pan Left
+--------------- 154 --------------
+  Mon Feb 04 21:30:30 EST 2019
+ProcessKeyBinding 400 when=1549333830674 modifiers=80 code=0 char=34(4) false false
+--------------- 155 --------------
+  Mon Feb 04 21:30:30 EST 2019
+ProcessKeyBinding 402 when=1549333830775 modifiers=80 code=34 char=34(4) false false
+--------------- 156 --------------
+  Mon Feb 04 21:30:32 EST 2019
+ProcessKeyBinding 401 when=1549333832254 modifiers=80 code=36 char=36(6) false false
+--------------- 157 --------------
+  Mon Feb 04 21:30:32 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 158 --------------
+  Mon Feb 04 21:30:32 EST 2019
+ProcessKeyBinding 400 when=1549333832254 modifiers=80 code=0 char=36(6) false false
+--------------- 159 --------------
+  Mon Feb 04 21:30:32 EST 2019
+ProcessKeyBinding 402 when=1549333832387 modifiers=80 code=36 char=36(6) false false
+--------------- 160 --------------
+  Mon Feb 04 21:30:38 EST 2019
+ProcessKeyBinding 401 when=1549333838568 modifiers=80 code=36 char=36(6) false false
+--------------- 161 --------------
+  Mon Feb 04 21:30:38 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 162 --------------
+  Mon Feb 04 21:30:38 EST 2019
+ProcessKeyBinding 400 when=1549333838568 modifiers=80 code=0 char=36(6) false false
+--------------- 163 --------------
+  Mon Feb 04 21:30:38 EST 2019
+ProcessKeyBinding 402 when=1549333838722 modifiers=80 code=36 char=36(6) false false
+--------------- 164 --------------
+  Mon Feb 04 21:30:39 EST 2019
+ProcessKeyBinding 401 when=1549333839031 modifiers=80 code=36 char=36(6) false false
+--------------- 165 --------------
+  Mon Feb 04 21:30:39 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 166 --------------
+  Mon Feb 04 21:30:39 EST 2019
+ProcessKeyBinding 400 when=1549333839031 modifiers=80 code=0 char=36(6) false false
+--------------- 167 --------------
+  Mon Feb 04 21:30:39 EST 2019
+ProcessKeyBinding 402 when=1549333839153 modifiers=80 code=36 char=36(6) false false
+--------------- 168 --------------
+  Mon Feb 04 21:30:42 EST 2019
+ProcessKeyBinding 401 when=1549333842483 modifiers=80 code=36 char=36(6) false false
+--------------- 169 --------------
+  Mon Feb 04 21:30:42 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 170 --------------
+  Mon Feb 04 21:30:42 EST 2019
+ProcessKeyBinding 400 when=1549333842483 modifiers=80 code=0 char=36(6) false false
+--------------- 171 --------------
+  Mon Feb 04 21:30:42 EST 2019
+ProcessKeyBinding 402 when=1549333842642 modifiers=80 code=36 char=36(6) false false
+--------------- 172 --------------
+  Mon Feb 04 21:30:42 EST 2019
+ProcessKeyBinding 401 when=1549333842919 modifiers=80 code=36 char=36(6) false false
+--------------- 173 --------------
+  Mon Feb 04 21:30:42 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 174 --------------
+  Mon Feb 04 21:30:42 EST 2019
+ProcessKeyBinding 400 when=1549333842919 modifiers=80 code=0 char=36(6) false false
+--------------- 175 --------------
+  Mon Feb 04 21:30:43 EST 2019
+ProcessKeyBinding 402 when=1549333843084 modifiers=80 code=36 char=36(6) false false
+--------------- 176 --------------
+  Mon Feb 04 21:30:43 EST 2019
+ProcessKeyBinding 401 when=1549333843248 modifiers=80 code=36 char=36(6) false false
+--------------- 177 --------------
+  Mon Feb 04 21:30:43 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 178 --------------
+  Mon Feb 04 21:30:43 EST 2019
+ProcessKeyBinding 400 when=1549333843248 modifiers=80 code=0 char=36(6) false false
+--------------- 179 --------------
+  Mon Feb 04 21:30:43 EST 2019
+ProcessKeyBinding 402 when=1549333843397 modifiers=80 code=36 char=36(6) false false
+--------------- 180 --------------
+  Mon Feb 04 21:30:46 EST 2019
+ProcessKeyBinding 401 when=1549333846871 modifiers=80 code=36 char=36(6) false false
+--------------- 181 --------------
+  Mon Feb 04 21:30:46 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 182 --------------
+  Mon Feb 04 21:30:46 EST 2019
+ProcessKeyBinding 400 when=1549333846871 modifiers=80 code=0 char=36(6) false false
+--------------- 183 --------------
+  Mon Feb 04 21:30:47 EST 2019
+ProcessKeyBinding 402 when=1549333847051 modifiers=80 code=36 char=36(6) false false
+--------------- 184 --------------
+  Mon Feb 04 21:30:50 EST 2019
+ProcessKeyBinding 402 when=1549333850392 modifiers=0 code=11 char=ffff false false
+--------------- 185 --------------
+  Mon Feb 04 21:30:53 EST 2019
+ProcessKeyBinding 401 when=1549333853008 modifiers=80 code=11 char=ffff false false
+--------------- 186 --------------
+  Mon Feb 04 21:30:53 EST 2019
+ProcessKeyBinding 401 when=1549333853801 modifiers=80 code=37 char=37(7) false false
+--------------- 187 --------------
+  Mon Feb 04 21:30:53 EST 2019
+Menu Activated: Window | Zoom In
+--------------- 188 --------------
+  Mon Feb 04 21:30:53 EST 2019
+ProcessKeyBinding 400 when=1549333853801 modifiers=80 code=0 char=37(7) false false
+--------------- 189 --------------
+  Mon Feb 04 21:30:53 EST 2019
+ProcessKeyBinding 402 when=1549333853896 modifiers=80 code=37 char=37(7) false false
+--------------- 190 --------------
+  Mon Feb 04 21:30:54 EST 2019
+ProcessKeyBinding 402 when=1549333854221 modifiers=0 code=11 char=ffff false false
+--------------- 191 --------------
+  Mon Feb 04 21:31:10 EST 2019
+ProcessKeyBinding 401 when=1549333870365 modifiers=200 code=12 char=ffff false false
+--------------- 192 --------------
+  Mon Feb 04 21:31:24 EST 2019
+ProcessKeyBinding 401 when=1549333884176 modifiers=200 code=12 char=ffff false false
+--------------- 193 --------------
+  Mon Feb 04 21:31:25 EST 2019
+ProcessKeyBinding 401 when=1549333885612 modifiers=200 code=12 char=ffff false false
+--------------- 194 --------------
+  Mon Feb 04 21:31:27 EST 2019
+ProcessKeyBinding 402 when=1549333887122 modifiers=0 code=12 char=ffff false false
+--------------- 195 --------------
+  Mon Feb 04 21:31:32 EST 2019
+ProcessKeyBinding 401 when=1549333892073 modifiers=80 code=11 char=ffff false false
+--------------- 196 --------------
+  Mon Feb 04 21:31:34 EST 2019
+ProcessKeyBinding 402 when=1549333894243 modifiers=0 code=11 char=ffff false false
+--------------- 197 --------------
+  Mon Feb 04 21:31:35 EST 2019
+ProcessKeyBinding 401 when=1549333895589 modifiers=80 code=11 char=ffff false false
+--------------- 198 --------------
+  Mon Feb 04 21:31:36 EST 2019
+ProcessKeyBinding 401 when=1549333896387 modifiers=80 code=36 char=36(6) false false
+--------------- 199 --------------
+  Mon Feb 04 21:31:36 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 200 --------------
+  Mon Feb 04 21:31:36 EST 2019
+ProcessKeyBinding 400 when=1549333896387 modifiers=80 code=0 char=36(6) false false
+--------------- 201 --------------
+  Mon Feb 04 21:31:36 EST 2019
+ProcessKeyBinding 402 when=1549333896483 modifiers=80 code=36 char=36(6) false false
+--------------- 202 --------------
+  Mon Feb 04 21:31:36 EST 2019
+ProcessKeyBinding 401 when=1549333896743 modifiers=80 code=36 char=36(6) false false
+--------------- 203 --------------
+  Mon Feb 04 21:31:36 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 204 --------------
+  Mon Feb 04 21:31:36 EST 2019
+ProcessKeyBinding 400 when=1549333896743 modifiers=80 code=0 char=36(6) false false
+--------------- 205 --------------
+  Mon Feb 04 21:31:36 EST 2019
+ProcessKeyBinding 402 when=1549333896839 modifiers=80 code=36 char=36(6) false false
+--------------- 206 --------------
+  Mon Feb 04 21:31:37 EST 2019
+ProcessKeyBinding 401 when=1549333897084 modifiers=80 code=36 char=36(6) false false
+--------------- 207 --------------
+  Mon Feb 04 21:31:37 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 208 --------------
+  Mon Feb 04 21:31:37 EST 2019
+ProcessKeyBinding 400 when=1549333897084 modifiers=80 code=0 char=36(6) false false
+--------------- 209 --------------
+  Mon Feb 04 21:31:37 EST 2019
+ProcessKeyBinding 402 when=1549333897190 modifiers=80 code=36 char=36(6) false false
+--------------- 210 --------------
+  Mon Feb 04 21:31:37 EST 2019
+ProcessKeyBinding 401 when=1549333897887 modifiers=80 code=36 char=36(6) false false
+--------------- 211 --------------
+  Mon Feb 04 21:31:37 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 212 --------------
+  Mon Feb 04 21:31:37 EST 2019
+ProcessKeyBinding 400 when=1549333897887 modifiers=80 code=0 char=36(6) false false
+--------------- 213 --------------
+  Mon Feb 04 21:31:38 EST 2019
+ProcessKeyBinding 402 when=1549333898024 modifiers=80 code=36 char=36(6) false false
+--------------- 214 --------------
+  Mon Feb 04 21:31:38 EST 2019
+ProcessKeyBinding 401 when=1549333898328 modifiers=80 code=36 char=36(6) false false
+--------------- 215 --------------
+  Mon Feb 04 21:31:38 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 216 --------------
+  Mon Feb 04 21:31:38 EST 2019
+ProcessKeyBinding 400 when=1549333898328 modifiers=80 code=0 char=36(6) false false
+--------------- 217 --------------
+  Mon Feb 04 21:31:38 EST 2019
+ProcessKeyBinding 402 when=1549333898467 modifiers=80 code=36 char=36(6) false false
+--------------- 218 --------------
+  Mon Feb 04 21:31:38 EST 2019
+ProcessKeyBinding 401 when=1549333898892 modifiers=80 code=36 char=36(6) false false
+--------------- 219 --------------
+  Mon Feb 04 21:31:38 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 220 --------------
+  Mon Feb 04 21:31:38 EST 2019
+ProcessKeyBinding 400 when=1549333898892 modifiers=80 code=0 char=36(6) false false
+--------------- 221 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 402 when=1549333899020 modifiers=80 code=36 char=36(6) false false
+--------------- 222 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 401 when=1549333899211 modifiers=80 code=36 char=36(6) false false
+--------------- 223 --------------
+  Mon Feb 04 21:31:39 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 224 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 400 when=1549333899211 modifiers=80 code=0 char=36(6) false false
+--------------- 225 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 402 when=1549333899307 modifiers=80 code=36 char=36(6) false false
+--------------- 226 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 401 when=1549333899520 modifiers=80 code=36 char=36(6) false false
+--------------- 227 --------------
+  Mon Feb 04 21:31:39 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 228 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 400 when=1549333899520 modifiers=80 code=0 char=36(6) false false
+--------------- 229 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 402 when=1549333899616 modifiers=80 code=36 char=36(6) false false
+--------------- 230 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 401 when=1549333899887 modifiers=80 code=36 char=36(6) false false
+--------------- 231 --------------
+  Mon Feb 04 21:31:39 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 232 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 400 when=1549333899887 modifiers=80 code=0 char=36(6) false false
+--------------- 233 --------------
+  Mon Feb 04 21:31:39 EST 2019
+ProcessKeyBinding 402 when=1549333899978 modifiers=80 code=36 char=36(6) false false
+--------------- 234 --------------
+  Mon Feb 04 21:31:40 EST 2019
+ProcessKeyBinding 401 when=1549333900238 modifiers=80 code=36 char=36(6) false false
+--------------- 235 --------------
+  Mon Feb 04 21:31:40 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 236 --------------
+  Mon Feb 04 21:31:40 EST 2019
+ProcessKeyBinding 400 when=1549333900238 modifiers=80 code=0 char=36(6) false false
+--------------- 237 --------------
+  Mon Feb 04 21:31:40 EST 2019
+ProcessKeyBinding 402 when=1549333900334 modifiers=80 code=36 char=36(6) false false
+--------------- 238 --------------
+  Mon Feb 04 21:31:40 EST 2019
+ProcessKeyBinding 401 when=1549333900621 modifiers=80 code=36 char=36(6) false false
+--------------- 239 --------------
+  Mon Feb 04 21:31:40 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 240 --------------
+  Mon Feb 04 21:31:40 EST 2019
+ProcessKeyBinding 400 when=1549333900621 modifiers=80 code=0 char=36(6) false false
+--------------- 241 --------------
+  Mon Feb 04 21:31:40 EST 2019
+ProcessKeyBinding 402 when=1549333900695 modifiers=80 code=36 char=36(6) false false
+--------------- 242 --------------
+  Mon Feb 04 21:31:40 EST 2019
+ProcessKeyBinding 401 when=1549333900971 modifiers=80 code=36 char=36(6) false false
+--------------- 243 --------------
+  Mon Feb 04 21:31:40 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 244 --------------
+  Mon Feb 04 21:31:40 EST 2019
+ProcessKeyBinding 400 when=1549333900971 modifiers=80 code=0 char=36(6) false false
+--------------- 245 --------------
+  Mon Feb 04 21:31:41 EST 2019
+ProcessKeyBinding 402 when=1549333901056 modifiers=80 code=36 char=36(6) false false
+--------------- 246 --------------
+  Mon Feb 04 21:31:41 EST 2019
+ProcessKeyBinding 401 when=1549333901301 modifiers=80 code=36 char=36(6) false false
+--------------- 247 --------------
+  Mon Feb 04 21:31:41 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 248 --------------
+  Mon Feb 04 21:31:41 EST 2019
+ProcessKeyBinding 400 when=1549333901301 modifiers=80 code=0 char=36(6) false false
+--------------- 249 --------------
+  Mon Feb 04 21:31:41 EST 2019
+ProcessKeyBinding 402 when=1549333901393 modifiers=80 code=36 char=36(6) false false
+--------------- 250 --------------
+  Mon Feb 04 21:31:41 EST 2019
+ProcessKeyBinding 401 when=1549333901637 modifiers=80 code=36 char=36(6) false false
+--------------- 251 --------------
+  Mon Feb 04 21:31:41 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 252 --------------
+  Mon Feb 04 21:31:41 EST 2019
+ProcessKeyBinding 400 when=1549333901637 modifiers=80 code=0 char=36(6) false false
+--------------- 253 --------------
+  Mon Feb 04 21:31:41 EST 2019
+ProcessKeyBinding 402 when=1549333901722 modifiers=80 code=36 char=36(6) false false
+--------------- 254 --------------
+  Mon Feb 04 21:31:42 EST 2019
+ProcessKeyBinding 401 when=1549333902026 modifiers=80 code=36 char=36(6) false false
+--------------- 255 --------------
+  Mon Feb 04 21:31:42 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 256 --------------
+  Mon Feb 04 21:31:42 EST 2019
+ProcessKeyBinding 400 when=1549333902026 modifiers=80 code=0 char=36(6) false false
+--------------- 257 --------------
+  Mon Feb 04 21:31:42 EST 2019
+ProcessKeyBinding 402 when=1549333902100 modifiers=80 code=36 char=36(6) false false
+--------------- 258 --------------
+  Mon Feb 04 21:31:42 EST 2019
+ProcessKeyBinding 401 when=1549333902403 modifiers=80 code=36 char=36(6) false false
+--------------- 259 --------------
+  Mon Feb 04 21:31:42 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 260 --------------
+  Mon Feb 04 21:31:42 EST 2019
+ProcessKeyBinding 400 when=1549333902403 modifiers=80 code=0 char=36(6) false false
+--------------- 261 --------------
+  Mon Feb 04 21:31:42 EST 2019
+ProcessKeyBinding 402 when=1549333902488 modifiers=80 code=36 char=36(6) false false
+--------------- 262 --------------
+  Mon Feb 04 21:31:42 EST 2019
+ProcessKeyBinding 401 when=1549333902765 modifiers=80 code=36 char=36(6) false false
+--------------- 263 --------------
+  Mon Feb 04 21:31:42 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 264 --------------
+  Mon Feb 04 21:31:42 EST 2019
+ProcessKeyBinding 400 when=1549333902765 modifiers=80 code=0 char=36(6) false false
+--------------- 265 --------------
+  Mon Feb 04 21:31:42 EST 2019
+ProcessKeyBinding 402 when=1549333902855 modifiers=80 code=36 char=36(6) false false
+--------------- 266 --------------
+  Mon Feb 04 21:31:43 EST 2019
+ProcessKeyBinding 401 when=1549333903143 modifiers=80 code=36 char=36(6) false false
+--------------- 267 --------------
+  Mon Feb 04 21:31:43 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 268 --------------
+  Mon Feb 04 21:31:43 EST 2019
+ProcessKeyBinding 400 when=1549333903143 modifiers=80 code=0 char=36(6) false false
+--------------- 269 --------------
+  Mon Feb 04 21:31:43 EST 2019
+ProcessKeyBinding 402 when=1549333903233 modifiers=80 code=36 char=36(6) false false
+--------------- 270 --------------
+  Mon Feb 04 21:31:43 EST 2019
+ProcessKeyBinding 401 when=1549333903574 modifiers=80 code=36 char=36(6) false false
+--------------- 271 --------------
+  Mon Feb 04 21:31:43 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 272 --------------
+  Mon Feb 04 21:31:43 EST 2019
+ProcessKeyBinding 400 when=1549333903574 modifiers=80 code=0 char=36(6) false false
+--------------- 273 --------------
+  Mon Feb 04 21:31:43 EST 2019
+ProcessKeyBinding 402 when=1549333903664 modifiers=80 code=36 char=36(6) false false
+--------------- 274 --------------
+  Mon Feb 04 21:31:44 EST 2019
+ProcessKeyBinding 401 when=1549333904005 modifiers=80 code=36 char=36(6) false false
+--------------- 275 --------------
+  Mon Feb 04 21:31:44 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 276 --------------
+  Mon Feb 04 21:31:44 EST 2019
+ProcessKeyBinding 400 when=1549333904005 modifiers=80 code=0 char=36(6) false false
+--------------- 277 --------------
+  Mon Feb 04 21:31:44 EST 2019
+ProcessKeyBinding 402 when=1549333904095 modifiers=80 code=36 char=36(6) false false
+--------------- 278 --------------
+  Mon Feb 04 21:31:44 EST 2019
+ProcessKeyBinding 401 when=1549333904361 modifiers=80 code=36 char=36(6) false false
+--------------- 279 --------------
+  Mon Feb 04 21:31:44 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 280 --------------
+  Mon Feb 04 21:31:44 EST 2019
+ProcessKeyBinding 400 when=1549333904361 modifiers=80 code=0 char=36(6) false false
+--------------- 281 --------------
+  Mon Feb 04 21:31:44 EST 2019
+ProcessKeyBinding 402 when=1549333904461 modifiers=80 code=36 char=36(6) false false
+--------------- 282 --------------
+  Mon Feb 04 21:31:44 EST 2019
+ProcessKeyBinding 401 when=1549333904776 modifiers=80 code=36 char=36(6) false false
+--------------- 283 --------------
+  Mon Feb 04 21:31:44 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 284 --------------
+  Mon Feb 04 21:31:44 EST 2019
+ProcessKeyBinding 400 when=1549333904776 modifiers=80 code=0 char=36(6) false false
+--------------- 285 --------------
+  Mon Feb 04 21:31:44 EST 2019
+ProcessKeyBinding 402 when=1549333904872 modifiers=80 code=36 char=36(6) false false
+--------------- 286 --------------
+  Mon Feb 04 21:31:45 EST 2019
+ProcessKeyBinding 401 when=1549333905132 modifiers=80 code=36 char=36(6) false false
+--------------- 287 --------------
+  Mon Feb 04 21:31:45 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 288 --------------
+  Mon Feb 04 21:31:45 EST 2019
+ProcessKeyBinding 400 when=1549333905132 modifiers=80 code=0 char=36(6) false false
+--------------- 289 --------------
+  Mon Feb 04 21:31:45 EST 2019
+ProcessKeyBinding 402 when=1549333905223 modifiers=80 code=36 char=36(6) false false
+--------------- 290 --------------
+  Mon Feb 04 21:31:45 EST 2019
+ProcessKeyBinding 401 when=1549333905552 modifiers=80 code=36 char=36(6) false false
+--------------- 291 --------------
+  Mon Feb 04 21:31:45 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 292 --------------
+  Mon Feb 04 21:31:45 EST 2019
+ProcessKeyBinding 400 when=1549333905552 modifiers=80 code=0 char=36(6) false false
+--------------- 293 --------------
+  Mon Feb 04 21:31:45 EST 2019
+ProcessKeyBinding 402 when=1549333905637 modifiers=80 code=36 char=36(6) false false
+--------------- 294 --------------
+  Mon Feb 04 21:31:45 EST 2019
+ProcessKeyBinding 401 when=1549333905994 modifiers=80 code=36 char=36(6) false false
+--------------- 295 --------------
+  Mon Feb 04 21:31:45 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 296 --------------
+  Mon Feb 04 21:31:45 EST 2019
+ProcessKeyBinding 400 when=1549333905994 modifiers=80 code=0 char=36(6) false false
+--------------- 297 --------------
+  Mon Feb 04 21:31:46 EST 2019
+ProcessKeyBinding 402 when=1549333906090 modifiers=80 code=36 char=36(6) false false
+--------------- 298 --------------
+  Mon Feb 04 21:31:46 EST 2019
+ProcessKeyBinding 402 when=1549333906712 modifiers=0 code=11 char=ffff false false
+--------------- 299 --------------
+  Mon Feb 04 21:31:58 EST 2019
+ProcessKeyBinding 401 when=1549333918021 modifiers=80 code=11 char=ffff false false
+--------------- 300 --------------
+  Mon Feb 04 21:31:58 EST 2019
+ProcessKeyBinding 401 when=1549333918430 modifiers=80 code=36 char=36(6) false false
+--------------- 301 --------------
+  Mon Feb 04 21:31:58 EST 2019
+Menu Activated: Window | Pan Right
+--------------- 302 --------------
+  Mon Feb 04 21:31:58 EST 2019
+ProcessKeyBinding 400 when=1549333918430 modifiers=80 code=0 char=36(6) false false
+--------------- 303 --------------
+  Mon Feb 04 21:31:58 EST 2019
+ProcessKeyBinding 402 when=1549333918515 modifiers=80 code=36 char=36(6) false false
+--------------- 304 --------------
+  Mon Feb 04 21:31:58 EST 2019
+ProcessKeyBinding 402 when=1549333918850 modifiers=0 code=11 char=ffff false false
